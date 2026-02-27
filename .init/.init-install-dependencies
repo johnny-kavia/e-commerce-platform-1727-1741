@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/tmp/kavia/workspace/code-generation/e-commerce-platform-1727-1741/ecommerce_frontend"
+}
